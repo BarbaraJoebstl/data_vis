@@ -1,4 +1,4 @@
-# data_vis_for_data_engineers
+# data_vis_for
 Sample notebook and explanations for data vis while exploring new data sources
 
 # Sample data used
